@@ -31,7 +31,7 @@ spec:
     - destination:
         host: proxy-access-control
         port:
-          number: 9180
+          number: 9181
     mirror:
       host: snort-ids
 ---
